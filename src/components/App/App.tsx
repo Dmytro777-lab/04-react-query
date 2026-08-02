@@ -1,10 +1,5 @@
-import SearchBar from '../SearchBar/SearchBar'
-import './App.css';
+import css from './App.module.css';
 
 export default function App() {
-
-
-  return (
-
-  )
+  return <main className={css.app}></main>;
 }
