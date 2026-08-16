@@ -29,13 +29,13 @@ A movie search application built with React and TypeScript. The application uses
 Clone the repository:
 
 ```bash
-git clone https://github.com/Dmytro777-lab/03-react-movies.git
+git clone https://github.com/Dmytro777-lab/04-react-query
 ```
 
 Open the project folder:
 
 ```bash
-cd 03-react-movies
+cd 04-react-query
 ```
 
 Install dependencies:
